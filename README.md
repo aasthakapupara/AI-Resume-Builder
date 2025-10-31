@@ -83,7 +83,7 @@ In this project, you will learn to build a Full Stack Online Resume Builder step
 
 ## 🌐 Live Demo
 
-🔗 Live App: https://ai-resume-builder-2025.netlify.app/
+🔗 Live App: https://ai-resume-builder-ak.netlify.app/
 
 ---
 
